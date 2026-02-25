@@ -1,0 +1,479 @@
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\1er con Ado\Solution1\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\1er con Ado\Solution1\CapaPresentacion\bin\Debug\CapaEntidades.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\1er con Ado\Solution1\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\1er con Ado\Solution1\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\1er con Ado\Solution1\CapaPresentacion\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\1er con Ado\Solution1\CapaPresentacion\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\1er con Ado\Solution1\CapaPresentacion\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\1er con Ado\Solution1\CapaPresentacion\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\1er con Ado\Solution1\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\1er con Ado\Solution1\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\1er con Ado\Solution1\CapaPresentacion\bin\Debug\Azure.Core.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\1er con Ado\Solution1\CapaPresentacion\bin\Debug\Azure.Identity.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\1er con Ado\Solution1\CapaPresentacion\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\1er con Ado\Solution1\CapaPresentacion\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\1er con Ado\Solution1\CapaPresentacion\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\1er con Ado\Solution1\CapaPresentacion\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\1er con Ado\Solution1\CapaPresentacion\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\1er con Ado\Solution1\CapaPresentacion\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\1er con Ado\Solution1\CapaPresentacion\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\1er con Ado\Solution1\CapaPresentacion\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\1er con Ado\Solution1\CapaPresentacion\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\1er con Ado\Solution1\CapaPresentacion\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\1er con Ado\Solution1\CapaPresentacion\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\1er con Ado\Solution1\CapaPresentacion\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\1er con Ado\Solution1\CapaPresentacion\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\1er con Ado\Solution1\CapaPresentacion\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\1er con Ado\Solution1\CapaPresentacion\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\1er con Ado\Solution1\CapaPresentacion\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\1er con Ado\Solution1\CapaPresentacion\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\1er con Ado\Solution1\CapaPresentacion\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\1er con Ado\Solution1\CapaPresentacion\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\1er con Ado\Solution1\CapaPresentacion\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\1er con Ado\Solution1\CapaPresentacion\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\1er con Ado\Solution1\CapaPresentacion\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\1er con Ado\Solution1\CapaPresentacion\bin\Debug\System.Buffers.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\1er con Ado\Solution1\CapaPresentacion\bin\Debug\System.ClientModel.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\1er con Ado\Solution1\CapaPresentacion\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\1er con Ado\Solution1\CapaPresentacion\bin\Debug\System.Formats.Asn1.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\1er con Ado\Solution1\CapaPresentacion\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\1er con Ado\Solution1\CapaPresentacion\bin\Debug\System.IO.FileSystem.AccessControl.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\1er con Ado\Solution1\CapaPresentacion\bin\Debug\System.Memory.Data.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\1er con Ado\Solution1\CapaPresentacion\bin\Debug\System.Memory.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\1er con Ado\Solution1\CapaPresentacion\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\1er con Ado\Solution1\CapaPresentacion\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\1er con Ado\Solution1\CapaPresentacion\bin\Debug\System.Security.AccessControl.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\1er con Ado\Solution1\CapaPresentacion\bin\Debug\System.Security.Cryptography.Pkcs.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\1er con Ado\Solution1\CapaPresentacion\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\1er con Ado\Solution1\CapaPresentacion\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\1er con Ado\Solution1\CapaPresentacion\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\1er con Ado\Solution1\CapaPresentacion\bin\Debug\System.Text.Json.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\1er con Ado\Solution1\CapaPresentacion\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\1er con Ado\Solution1\CapaPresentacion\bin\Debug\System.ValueTuple.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\1er con Ado\Solution1\CapaPresentacion\bin\Debug\EnvDTE.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\1er con Ado\Solution1\CapaPresentacion\bin\Debug\stdole.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\1er con Ado\Solution1\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\1er con Ado\Solution1\CapaPresentacion\bin\Debug\CapaEntidades.pdb
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\1er con Ado\Solution1\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\1er con Ado\Solution1\CapaPresentacion\bin\Debug\Azure.Core.xml
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\1er con Ado\Solution1\CapaPresentacion\bin\Debug\Azure.Identity.xml
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\1er con Ado\Solution1\CapaPresentacion\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\1er con Ado\Solution1\CapaPresentacion\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\1er con Ado\Solution1\CapaPresentacion\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\1er con Ado\Solution1\CapaPresentacion\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\1er con Ado\Solution1\CapaPresentacion\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\1er con Ado\Solution1\CapaPresentacion\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\1er con Ado\Solution1\CapaPresentacion\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\1er con Ado\Solution1\CapaPresentacion\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\1er con Ado\Solution1\CapaPresentacion\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\1er con Ado\Solution1\CapaPresentacion\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\1er con Ado\Solution1\CapaPresentacion\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\1er con Ado\Solution1\CapaPresentacion\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\1er con Ado\Solution1\CapaPresentacion\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\1er con Ado\Solution1\CapaPresentacion\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\1er con Ado\Solution1\CapaPresentacion\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\1er con Ado\Solution1\CapaPresentacion\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\1er con Ado\Solution1\CapaPresentacion\bin\Debug\System.Buffers.xml
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\1er con Ado\Solution1\CapaPresentacion\bin\Debug\System.ClientModel.xml
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\1er con Ado\Solution1\CapaPresentacion\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\1er con Ado\Solution1\CapaPresentacion\bin\Debug\System.Formats.Asn1.xml
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\1er con Ado\Solution1\CapaPresentacion\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\1er con Ado\Solution1\CapaPresentacion\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\1er con Ado\Solution1\CapaPresentacion\bin\Debug\System.Memory.xml
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\1er con Ado\Solution1\CapaPresentacion\bin\Debug\System.Memory.Data.xml
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\1er con Ado\Solution1\CapaPresentacion\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\1er con Ado\Solution1\CapaPresentacion\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\1er con Ado\Solution1\CapaPresentacion\bin\Debug\System.Security.AccessControl.xml
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\1er con Ado\Solution1\CapaPresentacion\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\1er con Ado\Solution1\CapaPresentacion\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\1er con Ado\Solution1\CapaPresentacion\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\1er con Ado\Solution1\CapaPresentacion\bin\Debug\System.Text.Json.xml
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\1er con Ado\Solution1\CapaPresentacion\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\1er con Ado\Solution1\CapaPresentacion\bin\Debug\System.ValueTuple.xml
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\1er con Ado\Solution1\CapaPresentacion\bin\Debug\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\1er con Ado\Solution1\CapaPresentacion\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\1er con Ado\Solution1\CapaPresentacion\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\1er con Ado\Solution1\CapaPresentacion\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\1er con Ado\Solution1\CapaPresentacion\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\1er con Ado\Solution1\CapaPresentacion\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\1er con Ado\Solution1\CapaPresentacion\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\1er con Ado\Solution1\CapaPresentacion\bin\Debug\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\1er con Ado\Solution1\CapaPresentacion\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\1er con Ado\Solution1\CapaPresentacion\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\1er con Ado\Solution1\CapaPresentacion\bin\Debug\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\1er con Ado\Solution1\CapaPresentacion\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\1er con Ado\Solution1\CapaPresentacion\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\1er con Ado\Solution1\CapaPresentacion\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\1er con Ado\Solution1\CapaPresentacion\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\1er con Ado\Solution1\CapaPresentacion\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\1er con Ado\Solution1\CapaPresentacion\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\1er con Ado\Solution1\CapaPresentacion\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\1er con Ado\Solution1\CapaPresentacion\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\1er con Ado\Solution1\CapaPresentacion\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\1er con Ado\Solution1\CapaPresentacion\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\1er con Ado\Solution1\CapaPresentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\1er con Ado\Solution1\CapaPresentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\1er con Ado\Solution1\CapaPresentacion\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\1er con Ado\Solution1\CapaPresentacion\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\1er con Ado\Solution1\CapaPresentacion\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\1er con Ado\Solution1\CapaPresentacion\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\1er con Ado\Solution1\CapaPresentacion\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\1er con Ado\Solution1\CapaPresentacion\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\1er con Ado\Solution1\CapaPresentacion\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\1er con Ado\Solution1\CapaPresentacion\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\1er con Ado\Solution1\CapaPresentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\1er con Ado\Solution1\CapaPresentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\1er con Ado\Solution1\CapaPresentacion\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\1er con Ado\Solution1\CapaPresentacion\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\1er con Ado\Solution1\CapaPresentacion\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\1er con Ado\Solution1\CapaPresentacion\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\1er con Ado\Solution1\CapaPresentacion\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\1er con Ado\Solution1\CapaPresentacion\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\1er con Ado\Solution1\CapaPresentacion\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\1er con Ado\Solution1\CapaPresentacion\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\1er con Ado\Solution1\CapaPresentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\1er con Ado\Solution1\CapaPresentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\1er con Ado\Solution1\CapaPresentacion\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\1er con Ado\Solution1\CapaPresentacion\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\1er con Ado\Solution1\CapaPresentacion\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\1er con Ado\Solution1\CapaPresentacion\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\1er con Ado\Solution1\CapaPresentacion\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\1er con Ado\Solution1\CapaPresentacion\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\1er con Ado\Solution1\CapaPresentacion\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\1er con Ado\Solution1\CapaPresentacion\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\1er con Ado\Solution1\CapaPresentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\1er con Ado\Solution1\CapaPresentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\1er con Ado\Solution1\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\1er con Ado\Solution1\CapaPresentacion\obj\Debug\CapaPresentacion.Facturacion.FormListadoVentas.resources
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\1er con Ado\Solution1\CapaPresentacion\obj\Debug\CapaPresentacion.Facturacion.FormProductos.resources
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\1er con Ado\Solution1\CapaPresentacion\obj\Debug\CapaPresentacion.FormCategoria.resources
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\1er con Ado\Solution1\CapaPresentacion\obj\Debug\CapaPresentacion.Inicio.resources
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\1er con Ado\Solution1\CapaPresentacion\obj\Debug\CapaPresentacion.FormVentas.resources
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\1er con Ado\Solution1\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\1er con Ado\Solution1\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\1er con Ado\Solution1\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\1er con Ado\Solution1\CapaPresentacion\obj\Debug\CapaPres.61CA7C38.Up2Date
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\1er con Ado\Solution1\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\1er con Ado\Solution1\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\1er con Ado\Solution1\CapaPresentacion\obj\Debug\CapaPresentacion.exe.config
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\1er con Ado\Solution1\CapaPresentacion\obj\Debug\CapaPresentacion.FormFactura.resources
+C:\Users\Eliandy\Pictures\R\Solution1\Solution1\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\Eliandy\Pictures\R\Solution1\Solution1\CapaPresentacion\obj\Debug\CapaPresentacion.exe.config
+C:\Users\Eliandy\Pictures\R\Solution1\Solution1\CapaPresentacion\obj\Debug\CapaPresentacion.Facturacion.FormListadoVentas.resources
+C:\Users\Eliandy\Pictures\R\Solution1\Solution1\CapaPresentacion\obj\Debug\CapaPresentacion.FormFactura.resources
+C:\Users\Eliandy\Pictures\R\Solution1\Solution1\CapaPresentacion\obj\Debug\CapaPresentacion.Facturacion.FormProductos.resources
+C:\Users\Eliandy\Pictures\R\Solution1\Solution1\CapaPresentacion\obj\Debug\CapaPresentacion.FormCategoria.resources
+C:\Users\Eliandy\Pictures\R\Solution1\Solution1\CapaPresentacion\obj\Debug\CapaPresentacion.Inicio.resources
+C:\Users\Eliandy\Pictures\R\Solution1\Solution1\CapaPresentacion\obj\Debug\CapaPresentacion.FormVentas.resources
+C:\Users\Eliandy\Pictures\R\Solution1\Solution1\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\Eliandy\Pictures\R\Solution1\Solution1\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\Eliandy\Pictures\R\Solution1\Solution1\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\Eliandy\Pictures\R\Solution1\Solution1\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\Eliandy\Pictures\R\Solution1\Solution1\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\Eliandy\Pictures\R\Solution1\Solution1\CapaPresentacion\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Eliandy\Pictures\R\Solution1\Solution1\CapaPresentacion\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Eliandy\Pictures\R\Solution1\Solution1\CapaPresentacion\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Eliandy\Pictures\R\Solution1\Solution1\CapaPresentacion\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Eliandy\Pictures\R\Solution1\Solution1\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\Eliandy\Pictures\R\Solution1\Solution1\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\Eliandy\Pictures\R\Solution1\Solution1\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\Eliandy\Pictures\R\Solution1\Solution1\CapaPresentacion\bin\Debug\Azure.Core.dll
+C:\Users\Eliandy\Pictures\R\Solution1\Solution1\CapaPresentacion\bin\Debug\Azure.Identity.dll
+C:\Users\Eliandy\Pictures\R\Solution1\Solution1\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\Eliandy\Pictures\R\Solution1\Solution1\CapaPresentacion\bin\Debug\CapaEntidades.dll
+C:\Users\Eliandy\Pictures\R\Solution1\Solution1\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\Eliandy\Pictures\R\Solution1\Solution1\CapaPresentacion\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Eliandy\Pictures\R\Solution1\Solution1\CapaPresentacion\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\Eliandy\Pictures\R\Solution1\Solution1\CapaPresentacion\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Eliandy\Pictures\R\Solution1\Solution1\CapaPresentacion\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Eliandy\Pictures\R\Solution1\Solution1\CapaPresentacion\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Eliandy\Pictures\R\Solution1\Solution1\CapaPresentacion\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Eliandy\Pictures\R\Solution1\Solution1\CapaPresentacion\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Eliandy\Pictures\R\Solution1\Solution1\CapaPresentacion\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Eliandy\Pictures\R\Solution1\Solution1\CapaPresentacion\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\Eliandy\Pictures\R\Solution1\Solution1\CapaPresentacion\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Eliandy\Pictures\R\Solution1\Solution1\CapaPresentacion\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Eliandy\Pictures\R\Solution1\Solution1\CapaPresentacion\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Eliandy\Pictures\R\Solution1\Solution1\CapaPresentacion\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\Eliandy\Pictures\R\Solution1\Solution1\CapaPresentacion\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Eliandy\Pictures\R\Solution1\Solution1\CapaPresentacion\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Eliandy\Pictures\R\Solution1\Solution1\CapaPresentacion\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Eliandy\Pictures\R\Solution1\Solution1\CapaPresentacion\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Eliandy\Pictures\R\Solution1\Solution1\CapaPresentacion\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Eliandy\Pictures\R\Solution1\Solution1\CapaPresentacion\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Eliandy\Pictures\R\Solution1\Solution1\CapaPresentacion\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Eliandy\Pictures\R\Solution1\Solution1\CapaPresentacion\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Eliandy\Pictures\R\Solution1\Solution1\CapaPresentacion\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Eliandy\Pictures\R\Solution1\Solution1\CapaPresentacion\bin\Debug\System.Buffers.dll
+C:\Users\Eliandy\Pictures\R\Solution1\Solution1\CapaPresentacion\bin\Debug\System.ClientModel.dll
+C:\Users\Eliandy\Pictures\R\Solution1\Solution1\CapaPresentacion\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Eliandy\Pictures\R\Solution1\Solution1\CapaPresentacion\bin\Debug\System.Formats.Asn1.dll
+C:\Users\Eliandy\Pictures\R\Solution1\Solution1\CapaPresentacion\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Eliandy\Pictures\R\Solution1\Solution1\CapaPresentacion\bin\Debug\System.IO.FileSystem.AccessControl.dll
+C:\Users\Eliandy\Pictures\R\Solution1\Solution1\CapaPresentacion\bin\Debug\System.Memory.Data.dll
+C:\Users\Eliandy\Pictures\R\Solution1\Solution1\CapaPresentacion\bin\Debug\System.Memory.dll
+C:\Users\Eliandy\Pictures\R\Solution1\Solution1\CapaPresentacion\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Eliandy\Pictures\R\Solution1\Solution1\CapaPresentacion\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Eliandy\Pictures\R\Solution1\Solution1\CapaPresentacion\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Eliandy\Pictures\R\Solution1\Solution1\CapaPresentacion\bin\Debug\System.Security.Cryptography.Pkcs.dll
+C:\Users\Eliandy\Pictures\R\Solution1\Solution1\CapaPresentacion\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Eliandy\Pictures\R\Solution1\Solution1\CapaPresentacion\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Eliandy\Pictures\R\Solution1\Solution1\CapaPresentacion\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Eliandy\Pictures\R\Solution1\Solution1\CapaPresentacion\bin\Debug\System.Text.Json.dll
+C:\Users\Eliandy\Pictures\R\Solution1\Solution1\CapaPresentacion\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Eliandy\Pictures\R\Solution1\Solution1\CapaPresentacion\bin\Debug\System.ValueTuple.dll
+C:\Users\Eliandy\Pictures\R\Solution1\Solution1\CapaPresentacion\bin\Debug\EnvDTE.dll
+C:\Users\Eliandy\Pictures\R\Solution1\Solution1\CapaPresentacion\bin\Debug\stdole.dll
+C:\Users\Eliandy\Pictures\R\Solution1\Solution1\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\Eliandy\Pictures\R\Solution1\Solution1\CapaPresentacion\bin\Debug\CapaEntidades.pdb
+C:\Users\Eliandy\Pictures\R\Solution1\Solution1\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\Eliandy\Pictures\R\Solution1\Solution1\CapaPresentacion\bin\Debug\Azure.Core.xml
+C:\Users\Eliandy\Pictures\R\Solution1\Solution1\CapaPresentacion\bin\Debug\Azure.Identity.xml
+C:\Users\Eliandy\Pictures\R\Solution1\Solution1\CapaPresentacion\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Eliandy\Pictures\R\Solution1\Solution1\CapaPresentacion\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\Eliandy\Pictures\R\Solution1\Solution1\CapaPresentacion\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\Eliandy\Pictures\R\Solution1\Solution1\CapaPresentacion\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\Eliandy\Pictures\R\Solution1\Solution1\CapaPresentacion\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Eliandy\Pictures\R\Solution1\Solution1\CapaPresentacion\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Eliandy\Pictures\R\Solution1\Solution1\CapaPresentacion\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Eliandy\Pictures\R\Solution1\Solution1\CapaPresentacion\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Eliandy\Pictures\R\Solution1\Solution1\CapaPresentacion\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\Eliandy\Pictures\R\Solution1\Solution1\CapaPresentacion\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\Eliandy\Pictures\R\Solution1\Solution1\CapaPresentacion\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\Eliandy\Pictures\R\Solution1\Solution1\CapaPresentacion\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\Eliandy\Pictures\R\Solution1\Solution1\CapaPresentacion\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\Eliandy\Pictures\R\Solution1\Solution1\CapaPresentacion\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\Eliandy\Pictures\R\Solution1\Solution1\CapaPresentacion\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\Eliandy\Pictures\R\Solution1\Solution1\CapaPresentacion\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Eliandy\Pictures\R\Solution1\Solution1\CapaPresentacion\bin\Debug\System.Buffers.xml
+C:\Users\Eliandy\Pictures\R\Solution1\Solution1\CapaPresentacion\bin\Debug\System.ClientModel.xml
+C:\Users\Eliandy\Pictures\R\Solution1\Solution1\CapaPresentacion\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Eliandy\Pictures\R\Solution1\Solution1\CapaPresentacion\bin\Debug\System.Formats.Asn1.xml
+C:\Users\Eliandy\Pictures\R\Solution1\Solution1\CapaPresentacion\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Eliandy\Pictures\R\Solution1\Solution1\CapaPresentacion\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\Eliandy\Pictures\R\Solution1\Solution1\CapaPresentacion\bin\Debug\System.Memory.xml
+C:\Users\Eliandy\Pictures\R\Solution1\Solution1\CapaPresentacion\bin\Debug\System.Memory.Data.xml
+C:\Users\Eliandy\Pictures\R\Solution1\Solution1\CapaPresentacion\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Eliandy\Pictures\R\Solution1\Solution1\CapaPresentacion\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Eliandy\Pictures\R\Solution1\Solution1\CapaPresentacion\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Eliandy\Pictures\R\Solution1\Solution1\CapaPresentacion\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Users\Eliandy\Pictures\R\Solution1\Solution1\CapaPresentacion\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Eliandy\Pictures\R\Solution1\Solution1\CapaPresentacion\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Eliandy\Pictures\R\Solution1\Solution1\CapaPresentacion\bin\Debug\System.Text.Json.xml
+C:\Users\Eliandy\Pictures\R\Solution1\Solution1\CapaPresentacion\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Eliandy\Pictures\R\Solution1\Solution1\CapaPresentacion\bin\Debug\System.ValueTuple.xml
+C:\Users\Eliandy\Pictures\R\Solution1\Solution1\CapaPresentacion\bin\Debug\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Eliandy\Pictures\R\Solution1\Solution1\CapaPresentacion\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Eliandy\Pictures\R\Solution1\Solution1\CapaPresentacion\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Eliandy\Pictures\R\Solution1\Solution1\CapaPresentacion\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Eliandy\Pictures\R\Solution1\Solution1\CapaPresentacion\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Eliandy\Pictures\R\Solution1\Solution1\CapaPresentacion\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Eliandy\Pictures\R\Solution1\Solution1\CapaPresentacion\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Eliandy\Pictures\R\Solution1\Solution1\CapaPresentacion\bin\Debug\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Eliandy\Pictures\R\Solution1\Solution1\CapaPresentacion\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Eliandy\Pictures\R\Solution1\Solution1\CapaPresentacion\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Eliandy\Pictures\R\Solution1\Solution1\CapaPresentacion\bin\Debug\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Eliandy\Pictures\R\Solution1\Solution1\CapaPresentacion\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Eliandy\Pictures\R\Solution1\Solution1\CapaPresentacion\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Eliandy\Pictures\R\Solution1\Solution1\CapaPresentacion\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Eliandy\Pictures\R\Solution1\Solution1\CapaPresentacion\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Eliandy\Pictures\R\Solution1\Solution1\CapaPresentacion\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Eliandy\Pictures\R\Solution1\Solution1\CapaPresentacion\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Eliandy\Pictures\R\Solution1\Solution1\CapaPresentacion\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Eliandy\Pictures\R\Solution1\Solution1\CapaPresentacion\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Eliandy\Pictures\R\Solution1\Solution1\CapaPresentacion\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Eliandy\Pictures\R\Solution1\Solution1\CapaPresentacion\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Eliandy\Pictures\R\Solution1\Solution1\CapaPresentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Eliandy\Pictures\R\Solution1\Solution1\CapaPresentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Eliandy\Pictures\R\Solution1\Solution1\CapaPresentacion\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Eliandy\Pictures\R\Solution1\Solution1\CapaPresentacion\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Eliandy\Pictures\R\Solution1\Solution1\CapaPresentacion\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Eliandy\Pictures\R\Solution1\Solution1\CapaPresentacion\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Eliandy\Pictures\R\Solution1\Solution1\CapaPresentacion\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Eliandy\Pictures\R\Solution1\Solution1\CapaPresentacion\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Eliandy\Pictures\R\Solution1\Solution1\CapaPresentacion\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Eliandy\Pictures\R\Solution1\Solution1\CapaPresentacion\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Eliandy\Pictures\R\Solution1\Solution1\CapaPresentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Eliandy\Pictures\R\Solution1\Solution1\CapaPresentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Eliandy\Pictures\R\Solution1\Solution1\CapaPresentacion\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Eliandy\Pictures\R\Solution1\Solution1\CapaPresentacion\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Eliandy\Pictures\R\Solution1\Solution1\CapaPresentacion\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Eliandy\Pictures\R\Solution1\Solution1\CapaPresentacion\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Eliandy\Pictures\R\Solution1\Solution1\CapaPresentacion\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Eliandy\Pictures\R\Solution1\Solution1\CapaPresentacion\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Eliandy\Pictures\R\Solution1\Solution1\CapaPresentacion\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Eliandy\Pictures\R\Solution1\Solution1\CapaPresentacion\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Eliandy\Pictures\R\Solution1\Solution1\CapaPresentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Eliandy\Pictures\R\Solution1\Solution1\CapaPresentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Eliandy\Pictures\R\Solution1\Solution1\CapaPresentacion\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Eliandy\Pictures\R\Solution1\Solution1\CapaPresentacion\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Eliandy\Pictures\R\Solution1\Solution1\CapaPresentacion\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Eliandy\Pictures\R\Solution1\Solution1\CapaPresentacion\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Eliandy\Pictures\R\Solution1\Solution1\CapaPresentacion\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Eliandy\Pictures\R\Solution1\Solution1\CapaPresentacion\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Eliandy\Pictures\R\Solution1\Solution1\CapaPresentacion\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Eliandy\Pictures\R\Solution1\Solution1\CapaPresentacion\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Eliandy\Pictures\R\Solution1\Solution1\CapaPresentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Eliandy\Pictures\R\Solution1\Solution1\CapaPresentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Eliandy\Pictures\R\Solution1\Solution1\CapaPresentacion\obj\Debug\CapaPres.61CA7C38.Up2Date
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\Solution2\Solution1\CapaPresentacion\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\Solution2\Solution1\CapaPresentacion\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\Solution2\Solution1\CapaPresentacion\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\Solution2\Solution1\CapaPresentacion\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\Solution2\Solution1\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\Solution2\Solution1\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\Solution2\Solution1\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\Solution2\Solution1\CapaPresentacion\bin\Debug\Azure.Core.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\Solution2\Solution1\CapaPresentacion\bin\Debug\Azure.Identity.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\Solution2\Solution1\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\Solution2\Solution1\CapaPresentacion\bin\Debug\CapaEntidades.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\Solution2\Solution1\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\Solution2\Solution1\CapaPresentacion\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\Solution2\Solution1\CapaPresentacion\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\Solution2\Solution1\CapaPresentacion\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\Solution2\Solution1\CapaPresentacion\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\Solution2\Solution1\CapaPresentacion\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\Solution2\Solution1\CapaPresentacion\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\Solution2\Solution1\CapaPresentacion\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\Solution2\Solution1\CapaPresentacion\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\Solution2\Solution1\CapaPresentacion\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\Solution2\Solution1\CapaPresentacion\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\Solution2\Solution1\CapaPresentacion\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\Solution2\Solution1\CapaPresentacion\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\Solution2\Solution1\CapaPresentacion\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\Solution2\Solution1\CapaPresentacion\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\Solution2\Solution1\CapaPresentacion\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\Solution2\Solution1\CapaPresentacion\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\Solution2\Solution1\CapaPresentacion\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\Solution2\Solution1\CapaPresentacion\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\Solution2\Solution1\CapaPresentacion\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\Solution2\Solution1\CapaPresentacion\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\Solution2\Solution1\CapaPresentacion\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\Solution2\Solution1\CapaPresentacion\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\Solution2\Solution1\CapaPresentacion\bin\Debug\System.Buffers.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\Solution2\Solution1\CapaPresentacion\bin\Debug\System.ClientModel.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\Solution2\Solution1\CapaPresentacion\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\Solution2\Solution1\CapaPresentacion\bin\Debug\System.Formats.Asn1.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\Solution2\Solution1\CapaPresentacion\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\Solution2\Solution1\CapaPresentacion\bin\Debug\System.IO.FileSystem.AccessControl.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\Solution2\Solution1\CapaPresentacion\bin\Debug\System.Memory.Data.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\Solution2\Solution1\CapaPresentacion\bin\Debug\System.Memory.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\Solution2\Solution1\CapaPresentacion\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\Solution2\Solution1\CapaPresentacion\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\Solution2\Solution1\CapaPresentacion\bin\Debug\System.Security.AccessControl.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\Solution2\Solution1\CapaPresentacion\bin\Debug\System.Security.Cryptography.Pkcs.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\Solution2\Solution1\CapaPresentacion\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\Solution2\Solution1\CapaPresentacion\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\Solution2\Solution1\CapaPresentacion\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\Solution2\Solution1\CapaPresentacion\bin\Debug\System.Text.Json.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\Solution2\Solution1\CapaPresentacion\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\Solution2\Solution1\CapaPresentacion\bin\Debug\System.ValueTuple.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\Solution2\Solution1\CapaPresentacion\bin\Debug\EnvDTE.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\Solution2\Solution1\CapaPresentacion\bin\Debug\stdole.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\Solution2\Solution1\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\Solution2\Solution1\CapaPresentacion\bin\Debug\CapaEntidades.pdb
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\Solution2\Solution1\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\Solution2\Solution1\CapaPresentacion\bin\Debug\Azure.Core.xml
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\Solution2\Solution1\CapaPresentacion\bin\Debug\Azure.Identity.xml
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\Solution2\Solution1\CapaPresentacion\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\Solution2\Solution1\CapaPresentacion\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\Solution2\Solution1\CapaPresentacion\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\Solution2\Solution1\CapaPresentacion\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\Solution2\Solution1\CapaPresentacion\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\Solution2\Solution1\CapaPresentacion\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\Solution2\Solution1\CapaPresentacion\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\Solution2\Solution1\CapaPresentacion\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\Solution2\Solution1\CapaPresentacion\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\Solution2\Solution1\CapaPresentacion\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\Solution2\Solution1\CapaPresentacion\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\Solution2\Solution1\CapaPresentacion\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\Solution2\Solution1\CapaPresentacion\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\Solution2\Solution1\CapaPresentacion\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\Solution2\Solution1\CapaPresentacion\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\Solution2\Solution1\CapaPresentacion\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\Solution2\Solution1\CapaPresentacion\bin\Debug\System.Buffers.xml
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\Solution2\Solution1\CapaPresentacion\bin\Debug\System.ClientModel.xml
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\Solution2\Solution1\CapaPresentacion\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\Solution2\Solution1\CapaPresentacion\bin\Debug\System.Formats.Asn1.xml
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\Solution2\Solution1\CapaPresentacion\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\Solution2\Solution1\CapaPresentacion\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\Solution2\Solution1\CapaPresentacion\bin\Debug\System.Memory.xml
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\Solution2\Solution1\CapaPresentacion\bin\Debug\System.Memory.Data.xml
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\Solution2\Solution1\CapaPresentacion\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\Solution2\Solution1\CapaPresentacion\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\Solution2\Solution1\CapaPresentacion\bin\Debug\System.Security.AccessControl.xml
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\Solution2\Solution1\CapaPresentacion\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\Solution2\Solution1\CapaPresentacion\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\Solution2\Solution1\CapaPresentacion\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\Solution2\Solution1\CapaPresentacion\bin\Debug\System.Text.Json.xml
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\Solution2\Solution1\CapaPresentacion\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\Solution2\Solution1\CapaPresentacion\bin\Debug\System.ValueTuple.xml
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\Solution2\Solution1\CapaPresentacion\bin\Debug\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\Solution2\Solution1\CapaPresentacion\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\Solution2\Solution1\CapaPresentacion\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\Solution2\Solution1\CapaPresentacion\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\Solution2\Solution1\CapaPresentacion\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\Solution2\Solution1\CapaPresentacion\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\Solution2\Solution1\CapaPresentacion\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\Solution2\Solution1\CapaPresentacion\bin\Debug\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\Solution2\Solution1\CapaPresentacion\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\Solution2\Solution1\CapaPresentacion\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\Solution2\Solution1\CapaPresentacion\bin\Debug\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\Solution2\Solution1\CapaPresentacion\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\Solution2\Solution1\CapaPresentacion\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\Solution2\Solution1\CapaPresentacion\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\Solution2\Solution1\CapaPresentacion\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\Solution2\Solution1\CapaPresentacion\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\Solution2\Solution1\CapaPresentacion\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\Solution2\Solution1\CapaPresentacion\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\Solution2\Solution1\CapaPresentacion\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\Solution2\Solution1\CapaPresentacion\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\Solution2\Solution1\CapaPresentacion\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\Solution2\Solution1\CapaPresentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\Solution2\Solution1\CapaPresentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\Solution2\Solution1\CapaPresentacion\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\Solution2\Solution1\CapaPresentacion\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\Solution2\Solution1\CapaPresentacion\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\Solution2\Solution1\CapaPresentacion\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\Solution2\Solution1\CapaPresentacion\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\Solution2\Solution1\CapaPresentacion\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\Solution2\Solution1\CapaPresentacion\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\Solution2\Solution1\CapaPresentacion\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\Solution2\Solution1\CapaPresentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\Solution2\Solution1\CapaPresentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\Solution2\Solution1\CapaPresentacion\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\Solution2\Solution1\CapaPresentacion\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\Solution2\Solution1\CapaPresentacion\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\Solution2\Solution1\CapaPresentacion\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\Solution2\Solution1\CapaPresentacion\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\Solution2\Solution1\CapaPresentacion\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\Solution2\Solution1\CapaPresentacion\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\Solution2\Solution1\CapaPresentacion\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\Solution2\Solution1\CapaPresentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\Solution2\Solution1\CapaPresentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\Solution2\Solution1\CapaPresentacion\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\Solution2\Solution1\CapaPresentacion\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\Solution2\Solution1\CapaPresentacion\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\Solution2\Solution1\CapaPresentacion\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\Solution2\Solution1\CapaPresentacion\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\Solution2\Solution1\CapaPresentacion\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\Solution2\Solution1\CapaPresentacion\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\Solution2\Solution1\CapaPresentacion\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\Solution2\Solution1\CapaPresentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\Solution2\Solution1\CapaPresentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\Solution2\Solution1\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\Solution2\Solution1\CapaPresentacion\obj\Debug\CapaPresentacion.exe.config
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\Solution2\Solution1\CapaPresentacion\obj\Debug\CapaPresentacion.Facturacion.FormListadoVentas.resources
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\Solution2\Solution1\CapaPresentacion\obj\Debug\CapaPresentacion.FormFactura.resources
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\Solution2\Solution1\CapaPresentacion\obj\Debug\CapaPresentacion.Facturacion.FormProductos.resources
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\Solution2\Solution1\CapaPresentacion\obj\Debug\CapaPresentacion.FormCategoria.resources
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\Solution2\Solution1\CapaPresentacion\obj\Debug\CapaPresentacion.Inicio.resources
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\Solution2\Solution1\CapaPresentacion\obj\Debug\CapaPresentacion.FormVentas.resources
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\Solution2\Solution1\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\Solution2\Solution1\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\Solution2\Solution1\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\Solution2\Solution1\CapaPresentacion\obj\Debug\CapaPres.61CA7C38.Up2Date
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\Solution2\Solution1\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\Solution2\Solution1\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\Solution2\Solution1\CapaPresentacion\obj\Debug\CapaPresentacion.FormFacturaEmergente.resources
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\Solution2\Solution1\CapaPresentacion\obj\Debug\CapaPresentacion.Clientes.resources

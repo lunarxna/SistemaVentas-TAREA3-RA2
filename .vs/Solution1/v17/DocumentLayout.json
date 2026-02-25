@@ -1,0 +1,319 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Eliandy\\Pictures\\R\\Solution1\\Solution1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{108A41BB-8F18-46F2-BB38-BDAC03C8BFB7}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\Eliandy\\Pictures\\R\\Solution1\\Solution1\\CapaPresentacion\\FormFactura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{108A41BB-8F18-46F2-BB38-BDAC03C8BFB7}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:CapaPresentacion\\FormFactura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{108A41BB-8F18-46F2-BB38-BDAC03C8BFB7}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\Eliandy\\Pictures\\R\\Solution1\\Solution1\\capapresentacion\\formfactura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{108A41BB-8F18-46F2-BB38-BDAC03C8BFB7}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\formfactura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11E36A06-BADD-4324-8A56-B5164AFC8C66}|CapaDatos\\CapaDatos.csproj|c:\\users\\eliandy\\pictures\\r\\solution1\\solution1\\capadatos\\ventadal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11E36A06-BADD-4324-8A56-B5164AFC8C66}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\ventadal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8322A922-A4C1-4274-8F16-4F780F8A0C05}|CapaNegocio\\CapaNegocio.csproj|C:\\Users\\Eliandy\\Pictures\\R\\Solution1\\Solution1\\CapaNegocio\\VentaBL.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8322A922-A4C1-4274-8F16-4F780F8A0C05}|CapaNegocio\\CapaNegocio.csproj|solutionrelative:CapaNegocio\\VentaBL.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{108A41BB-8F18-46F2-BB38-BDAC03C8BFB7}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\Eliandy\\Pictures\\R\\Solution1\\Solution1\\capapresentacion\\formventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{108A41BB-8F18-46F2-BB38-BDAC03C8BFB7}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\formventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{108A41BB-8F18-46F2-BB38-BDAC03C8BFB7}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\Eliandy\\Pictures\\R\\Solution1\\Solution1\\capapresentacion\\reportes\\reporteventas.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}",
+      "RelativeMoniker": "D:0:0:{108A41BB-8F18-46F2-BB38-BDAC03C8BFB7}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\reportes\\reporteventas.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Eliandy\\AppData\\Local\\Temp\\Rar$DIa25880.4469.rartemp\\FormVentas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{108A41BB-8F18-46F2-BB38-BDAC03C8BFB7}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\Eliandy\\Pictures\\R\\Solution1\\Solution1\\capapresentacion\\formventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{108A41BB-8F18-46F2-BB38-BDAC03C8BFB7}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\formventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11E36A06-BADD-4324-8A56-B5164AFC8C66}|CapaDatos\\CapaDatos.csproj|C:\\Users\\Eliandy\\Pictures\\R\\Solution1\\Solution1\\capadatos\\detalleventadal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11E36A06-BADD-4324-8A56-B5164AFC8C66}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\detalleventadal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{108A41BB-8F18-46F2-BB38-BDAC03C8BFB7}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\Eliandy\\Pictures\\R\\Solution1\\Solution1\\capapresentacion\\formproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{108A41BB-8F18-46F2-BB38-BDAC03C8BFB7}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\formproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11E36A06-BADD-4324-8A56-B5164AFC8C66}|CapaDatos\\CapaDatos.csproj|C:\\Users\\Eliandy\\Pictures\\R\\Solution1\\Solution1\\capadatos\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11E36A06-BADD-4324-8A56-B5164AFC8C66}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{108A41BB-8F18-46F2-BB38-BDAC03C8BFB7}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\Eliandy\\Pictures\\R\\Solution1\\Solution1\\capapresentacion\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{108A41BB-8F18-46F2-BB38-BDAC03C8BFB7}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{108A41BB-8F18-46F2-BB38-BDAC03C8BFB7}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\Eliandy\\Pictures\\R\\Solution1\\Solution1\\capapresentacion\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{108A41BB-8F18-46F2-BB38-BDAC03C8BFB7}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11E36A06-BADD-4324-8A56-B5164AFC8C66}|CapaDatos\\CapaDatos.csproj|C:\\Users\\Eliandy\\Pictures\\R\\Solution1\\Solution1\\capadatos\\productodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11E36A06-BADD-4324-8A56-B5164AFC8C66}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\productodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11E36A06-BADD-4324-8A56-B5164AFC8C66}|CapaDatos\\CapaDatos.csproj|C:\\Users\\Eliandy\\Pictures\\R\\Solution1\\Solution1\\capadatos\\clientedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11E36A06-BADD-4324-8A56-B5164AFC8C66}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\clientedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11E36A06-BADD-4324-8A56-B5164AFC8C66}|CapaDatos\\CapaDatos.csproj|C:\\Users\\Eliandy\\Pictures\\R\\Solution1\\Solution1\\capadatos\\categoriadal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11E36A06-BADD-4324-8A56-B5164AFC8C66}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\categoriadal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{108A41BB-8F18-46F2-BB38-BDAC03C8BFB7}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\Eliandy\\Pictures\\R\\Solution1\\Solution1\\capapresentacion\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{108A41BB-8F18-46F2-BB38-BDAC03C8BFB7}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{108A41BB-8F18-46F2-BB38-BDAC03C8BFB7}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\Eliandy\\Pictures\\R\\Solution1\\Solution1\\capapresentacion\\reportes\\datasetfactura.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "RelativeMoniker": "D:0:0:{108A41BB-8F18-46F2-BB38-BDAC03C8BFB7}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\reportes\\datasetfactura.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 89,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormVentas.cs",
+              "DocumentMoniker": "C:\\Users\\Eliandy\\Pictures\\R\\Solution1\\Solution1\\CapaPresentacion\\FormVentas.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\FormVentas.cs",
+              "ToolTip": "C:\\Users\\Eliandy\\Pictures\\R\\Solution1\\Solution1\\CapaPresentacion\\FormVentas.cs",
+              "RelativeToolTip": "CapaPresentacion\\FormVentas.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAgwHIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T03:48:41.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DetalleVentaDAL.cs",
+              "DocumentMoniker": "C:\\Users\\Eliandy\\Pictures\\R\\Solution1\\Solution1\\CapaDatos\\DetalleVentaDAL.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\DetalleVentaDAL.cs",
+              "ToolTip": "C:\\Users\\Eliandy\\Pictures\\R\\Solution1\\Solution1\\CapaDatos\\DetalleVentaDAL.cs",
+              "RelativeToolTip": "CapaDatos\\DetalleVentaDAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T03:44:50.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormFactura.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Eliandy\\Pictures\\R\\Solution1\\Solution1\\CapaPresentacion\\FormFactura.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\FormFactura.cs",
+              "ToolTip": "C:\\Users\\Eliandy\\Pictures\\R\\Solution1\\Solution1\\CapaPresentacion\\FormFactura.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CapaPresentacion\\FormFactura.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T17:26:30.375Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ReporteVentas.rdlc [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Eliandy\\Pictures\\R\\Solution1\\Solution1\\CapaPresentacion\\Reportes\\ReporteVentas.rdlc",
+              "RelativeDocumentMoniker": "CapaPresentacion\\Reportes\\ReporteVentas.rdlc",
+              "ToolTip": "C:\\Users\\Eliandy\\Pictures\\R\\Solution1\\Solution1\\CapaPresentacion\\Reportes\\ReporteVentas.rdlc [Dise\u00F1o]",
+              "RelativeToolTip": "CapaPresentacion\\Reportes\\ReporteVentas.rdlc [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2026-02-09T22:44:50.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormFactura.cs",
+              "DocumentMoniker": "C:\\Users\\Eliandy\\Pictures\\R\\Solution1\\Solution1\\CapaPresentacion\\FormFactura.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\FormFactura.cs",
+              "ToolTip": "C:\\Users\\Eliandy\\Pictures\\R\\Solution1\\Solution1\\CapaPresentacion\\FormFactura.cs",
+              "RelativeToolTip": "CapaPresentacion\\FormFactura.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAwKgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T22:39:03.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VentaDAL.cs",
+              "DocumentMoniker": "C:\\Users\\Eliandy\\Pictures\\R\\Solution1\\Solution1\\CapaDatos\\VentaDAL.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\VentaDAL.cs",
+              "ToolTip": "C:\\Users\\Eliandy\\Pictures\\R\\Solution1\\Solution1\\CapaDatos\\VentaDAL.cs",
+              "RelativeToolTip": "CapaDatos\\VentaDAL.cs",
+              "ViewState": "AgIAAHkAAAAAAAAAAADwv5EAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T22:07:49.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Conexion.cs",
+              "DocumentMoniker": "C:\\Users\\Eliandy\\Pictures\\R\\Solution1\\Solution1\\CapaDatos\\Conexion.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\Conexion.cs",
+              "ToolTip": "C:\\Users\\Eliandy\\Pictures\\R\\Solution1\\Solution1\\CapaDatos\\Conexion.cs",
+              "RelativeToolTip": "CapaDatos\\Conexion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA8AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T02:37:45.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VentaBL.cs",
+              "DocumentMoniker": "C:\\Users\\Eliandy\\Pictures\\R\\Solution1\\Solution1\\CapaNegocio\\VentaBL.cs",
+              "RelativeDocumentMoniker": "CapaNegocio\\VentaBL.cs",
+              "ToolTip": "C:\\Users\\Eliandy\\Pictures\\R\\Solution1\\Solution1\\CapaNegocio\\VentaBL.cs",
+              "RelativeToolTip": "CapaNegocio\\VentaBL.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAADwv0cAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T22:05:45.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormVentas.cs",
+              "DocumentMoniker": "C:\\Users\\Eliandy\\AppData\\Local\\Temp\\Rar$DIa25880.4469.rartemp\\FormVentas.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\Rar$DIa25880.4469.rartemp\\FormVentas.cs",
+              "ToolTip": "C:\\Users\\Eliandy\\AppData\\Local\\Temp\\Rar$DIa25880.4469.rartemp\\FormVentas.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\Temp\\Rar$DIa25880.4469.rartemp\\FormVentas.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAAFEAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T03:50:08.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FormVentas.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Eliandy\\Pictures\\R\\Solution1\\Solution1\\CapaPresentacion\\FormVentas.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\FormVentas.cs",
+              "ToolTip": "C:\\Users\\Eliandy\\Pictures\\R\\Solution1\\Solution1\\CapaPresentacion\\FormVentas.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CapaPresentacion\\FormVentas.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T02:57:22.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FormProductos.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Eliandy\\Pictures\\R\\Solution1\\Solution1\\CapaPresentacion\\FormProductos.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\FormProductos.cs",
+              "ToolTip": "C:\\Users\\Eliandy\\Pictures\\R\\Solution1\\Solution1\\CapaPresentacion\\FormProductos.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CapaPresentacion\\FormProductos.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T02:57:24.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\Eliandy\\Pictures\\R\\Solution1\\Solution1\\CapaPresentacion\\App.config",
+              "RelativeDocumentMoniker": "CapaPresentacion\\App.config",
+              "ToolTip": "C:\\Users\\Eliandy\\Pictures\\R\\Solution1\\Solution1\\CapaPresentacion\\App.config",
+              "RelativeToolTip": "CapaPresentacion\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-02-10T02:37:31.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DataSetFactura.xsd",
+              "DocumentMoniker": "C:\\Users\\Eliandy\\Pictures\\R\\Solution1\\Solution1\\CapaPresentacion\\Reportes\\DataSetFactura.xsd",
+              "RelativeDocumentMoniker": "CapaPresentacion\\Reportes\\DataSetFactura.xsd",
+              "ToolTip": "C:\\Users\\Eliandy\\Pictures\\R\\Solution1\\Solution1\\CapaPresentacion\\Reportes\\DataSetFactura.xsd",
+              "RelativeToolTip": "CapaPresentacion\\Reportes\\DataSetFactura.xsd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2026-02-09T23:10:48.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProductoDAL.cs",
+              "DocumentMoniker": "C:\\Users\\Eliandy\\Pictures\\R\\Solution1\\Solution1\\CapaDatos\\ProductoDAL.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\ProductoDAL.cs",
+              "ToolTip": "C:\\Users\\Eliandy\\Pictures\\R\\Solution1\\Solution1\\CapaDatos\\ProductoDAL.cs",
+              "RelativeToolTip": "CapaDatos\\ProductoDAL.cs",
+              "ViewState": "AgIAAJUAAAAAAAAAAAAswGEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T02:38:06.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CategoriaDAL.cs",
+              "DocumentMoniker": "C:\\Users\\Eliandy\\Pictures\\R\\Solution1\\Solution1\\CapaDatos\\CategoriaDAL.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\CategoriaDAL.cs",
+              "ToolTip": "C:\\Users\\Eliandy\\Pictures\\R\\Solution1\\Solution1\\CapaDatos\\CategoriaDAL.cs",
+              "RelativeToolTip": "CapaDatos\\CategoriaDAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T02:38:15.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ClienteDAL.cs",
+              "DocumentMoniker": "C:\\Users\\Eliandy\\Pictures\\R\\Solution1\\Solution1\\CapaDatos\\ClienteDAL.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\ClienteDAL.cs",
+              "ToolTip": "C:\\Users\\Eliandy\\Pictures\\R\\Solution1\\Solution1\\CapaDatos\\ClienteDAL.cs",
+              "RelativeToolTip": "CapaDatos\\ClienteDAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T02:38:19.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Inicio.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Eliandy\\Pictures\\R\\Solution1\\Solution1\\CapaPresentacion\\Inicio.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\Inicio.cs",
+              "ToolTip": "C:\\Users\\Eliandy\\Pictures\\R\\Solution1\\Solution1\\CapaPresentacion\\Inicio.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CapaPresentacion\\Inicio.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T02:41:06.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Inicio.cs",
+              "DocumentMoniker": "C:\\Users\\Eliandy\\Pictures\\R\\Solution1\\Solution1\\CapaPresentacion\\Inicio.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\Inicio.cs",
+              "ToolTip": "C:\\Users\\Eliandy\\Pictures\\R\\Solution1\\Solution1\\CapaPresentacion\\Inicio.cs",
+              "RelativeToolTip": "CapaPresentacion\\Inicio.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAtwD8AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T02:41:08.32Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 311,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

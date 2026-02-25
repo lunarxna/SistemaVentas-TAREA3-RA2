@@ -1,0 +1,27 @@
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\1er con Ado\Solution1\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\1er con Ado\Solution1\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\1er con Ado\Solution1\CapaDatos\bin\Debug\CapaEntidades.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\1er con Ado\Solution1\CapaDatos\bin\Debug\CapaEntidades.pdb
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\1er con Ado\Solution1\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\1er con Ado\Solution1\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\1er con Ado\Solution1\CapaDatos\obj\Debug\CapaDatos.csproj.Up2Date
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\1er con Ado\Solution1\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\1er con Ado\Solution1\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\Eliandy\Pictures\R\Solution1\Solution1\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\Eliandy\Pictures\R\Solution1\Solution1\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\Eliandy\Pictures\R\Solution1\Solution1\CapaDatos\bin\Debug\CapaEntidades.dll
+C:\Users\Eliandy\Pictures\R\Solution1\Solution1\CapaDatos\bin\Debug\CapaEntidades.pdb
+C:\Users\Eliandy\Pictures\R\Solution1\Solution1\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\Eliandy\Pictures\R\Solution1\Solution1\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\Eliandy\Pictures\R\Solution1\Solution1\CapaDatos\obj\Debug\CapaDatos.csproj.Up2Date
+C:\Users\Eliandy\Pictures\R\Solution1\Solution1\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\Eliandy\Pictures\R\Solution1\Solution1\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\Solution2\Solution1\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\Solution2\Solution1\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\Solution2\Solution1\CapaDatos\bin\Debug\CapaEntidades.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\Solution2\Solution1\CapaDatos\bin\Debug\CapaEntidades.pdb
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\Solution2\Solution1\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\Solution2\Solution1\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\Solution2\Solution1\CapaDatos\obj\Debug\CapaDatos.csproj.Up2Date
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\Solution2\Solution1\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\Solution2\Solution1\CapaDatos\obj\Debug\CapaDatos.pdb

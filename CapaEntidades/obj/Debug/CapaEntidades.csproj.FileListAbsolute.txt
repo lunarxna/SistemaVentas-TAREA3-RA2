@@ -1,0 +1,6 @@
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\1er con Ado\Solution1\CapaEntidades\bin\Debug\CapaEntidades.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\1er con Ado\Solution1\CapaEntidades\bin\Debug\CapaEntidades.pdb
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\1er con Ado\Solution1\CapaEntidades\obj\Debug\CapaEntidades.csproj.AssemblyReference.cache
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\1er con Ado\Solution1\CapaEntidades\obj\Debug\CapaEntidades.csproj.CoreCompileInputs.cache
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\1er con Ado\Solution1\CapaEntidades\obj\Debug\CapaEntidades.dll
+C:\Users\UserGPC\Desktop\Infórmatica 2025-2026\Desarrollo de aplicaciones\1er con Ado\Solution1\CapaEntidades\obj\Debug\CapaEntidades.pdb
